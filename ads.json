@@ -1,26 +1,4 @@
 {
-  "banners": [
-    {
-      "id": "example-banner-1",
-      "title": "ตัวอย่างแบนเนอร์โฆษณา",
-      "subtitle": "แก้ไฟล์ ads.json ใน GoodNatt-ads เพื่อเปลี่ยนข้อความ รูป และลิงก์",
-      "image": "https://raw.githubusercontent.com/k-zencool/GoodNatt-ads/main/images/banner-example.jpg",
-      "link": "https://github.com/k-zencool/GoodNatt-ads",
-      "start": "2026-11-01",
-      "end": "2026-12-31",
-      "background": "#6E7BFF",
-      "textColor": "#FFFFFF"
-    }
-  ],
-  "shelf": [
-    {
-      "id": "example-shelf-1",
-      "title": "ตัวอย่างการ์ดในชั้นหนังสือ",
-      "subtitle": "โฆษณา",
-      "image": "https://raw.githubusercontent.com/k-zencool/GoodNatt-ads/main/images/shelf-example.jpg",
-      "link": "https://github.com/k-zencool/GoodNatt-ads",
-      "position": 2,
-      "background": "#F28C33"
-    }
-  ]
+  "banners": [],
+  "shelf": []
 }

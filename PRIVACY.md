@@ -2,7 +2,7 @@
 
 Last updated: 10 November 2026
 
-Aranea Notes (formerly Aranea) is a personal notes app for iPad. It has no server of its own and collects no analytics.
+Aranea Notes (formerly GoodNatt) is a personal notes app for iPad. It has no server of its own and collects no analytics.
 
 ## Data stored on your device
 Notebooks, handwriting, recordings, study plans and settings are stored only on your iPad (and in iCloud if you turn on Apple's backup).

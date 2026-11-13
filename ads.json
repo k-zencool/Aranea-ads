@@ -1,4 +1,25 @@
 {
-  "banners": [],
-  "shelf": []
+  "banners": [
+    {
+      "id": "sample-wide-2026-11",
+      "title": "พื้นที่โฆษณาแบบการ์ดกว้าง",
+      "subtitle": "ตัวอย่าง แก้ข้อความ รูป และลิงก์ได้ใน ads.json",
+      "image": "https://raw.githubusercontent.com/k-zencool/Aranea-ads/main/images/sample-wide.jpg",
+      "link": "https://github.com/k-zencool/Aranea-ads",
+      "end": "2026-12-31",
+      "background": "#B58A3C"
+    }
+  ],
+  "shelf": [
+    {
+      "id": "sample-cover-2026-11",
+      "title": "พื้นที่โฆษณาบนชั้น",
+      "subtitle": "ตัวอย่าง",
+      "image": "https://raw.githubusercontent.com/k-zencool/Aranea-ads/main/images/sample-cover.jpg",
+      "link": "https://github.com/k-zencool/Aranea-ads",
+      "end": "2026-12-31",
+      "position": 2,
+      "background": "#A23B2A"
+    }
+  ]
 }
